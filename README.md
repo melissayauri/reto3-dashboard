@@ -27,7 +27,7 @@ En esta imagen se presenta el dashboard general que incluye lo siguiente:
   - Gráfico circular tiene el criterio mínimo de notas de evaluación.
 
 
-![dashboard](assets/images/dashboard.JPG)
+![dashboard](assets/images/dashboard.jpg)
 
 
 ### Dashboard comparación

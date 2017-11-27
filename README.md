@@ -21,9 +21,21 @@ En esta imagen se presenta el dashboard general que incluye lo siguiente:
 * En la parte derecha superiror se presenta un encabezado para iniciar sesion con su correo
 * En esa misma parte se presenta el titulo donde esta la sede,año y generación.Seguidamente se encuentra el n° de alumnas y las que desertaron.
 * Por último se encuentra los graficos que son:
-- Gráficos de barras verticales presenta el promedio de las notas por sprint.
-- Gráficos de barras horizontales presenta el promedio de las notas técnicas.
-- Tabla presenta el promedio de las notas técnicas.
+  - Gráficos de barras verticales presenta el promedio de las notas por sprint.
+  - Gráficos de barras horizontales presenta el promedio de las notas técnicas.
+  - Tabla presenta el promedio de las notas técnicas.
+  - Gráfico circular tiene el criterio mínimo de notas de evaluación.
 
 
 ![dashboard](assets/images/dashboard.jpg)
+
+
+### Dashboard comparación
+En esta imagen se presenta el dashboard para la comparación por generaciones, que incluye lo siguiente:
+* Se ingresa en la parte izquierda, donde hay un item que indica comparaciones.
+* Esta parte presentara una nueva ventana donde se encuentra un menu despegable por sede.
+* Luego un recuadro que esta dividido por sprints.
+* En dicho recuadro cada sprint tiene otro menú despegable del año.
+* Cada gráfico es comparado por generaciones.
+
+![dashboard](assets/images/dashboard_comparacion.jpg)

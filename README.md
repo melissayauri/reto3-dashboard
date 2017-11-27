@@ -27,7 +27,7 @@ En esta imagen se presenta el dashboard general que incluye lo siguiente:
   - Gráfico circular tiene el criterio mínimo de notas de evaluación.
 
 
-![dashboard](assets/images/dashboard.jpg)
+![dashboard](assets/images/dashboard.JPG)
 
 
 ### Dashboard comparación
@@ -38,4 +38,4 @@ En esta imagen se presenta el dashboard para la comparación por generaciones, q
 * En dicho recuadro cada sprint tiene otro menú despegable del año.
 * Cada gráfico es comparado por generaciones.
 
-![dashboard](assets/images/dashboard_comparacion.jpg)
+![dashboard](assets/images/dashboard_comparacion.JPG)
